@@ -1,0 +1,11 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'Development server not configured yet'"
+  },
+  "author": "",
+  "license": "ISC"
+}
